@@ -1,3 +1,5 @@
+
+
 const squares = document.querySelectorAll(".square");
 const turnText = document.querySelector(".turnText");
 const btnBot = document.querySelector(".button-play-against-bot");
